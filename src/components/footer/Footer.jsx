@@ -42,9 +42,6 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="bg-gray-100 text-center py-4 text-sm text-gray-500 border-t border-gray-200">
-          © 2025 UserApp. All rights reserved. Built with ❤️ by Abubakr.
-        </div>
       </footer>
     </div>
   )
